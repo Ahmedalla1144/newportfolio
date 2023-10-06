@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2940a599.css",
-    "main.js": "/static/js/main.c84a2cea.js",
+    "main.css": "/static/css/main.883a5aa2.css",
+    "main.js": "/static/js/main.d42d105e.js",
     "static/media/client.jpg": "/static/media/client.94f8a5a7c24b329947d3.jpg",
     "static/media/background.jpg": "/static/media/background.623ed72a7a2e11822a4b.jpg",
     "static/media/Layer 12.jpg": "/static/media/Layer 12.0a27f5942bc30fa282e8.jpg",
     "static/media/Layer 13.jpg": "/static/media/Layer 13.edf5543e271615d556a8.jpg",
     "static/media/Layer 11.jpg": "/static/media/Layer 11.efe994722ca417a68f26.jpg",
-    "static/media/Layer 10.jpg": "/static/media/Layer 10.436abfa6492b4be532ad.jpg",
+    "static/media/Layer 10.png": "/static/media/Layer 10.0e219127da465b27e78a.png",
     "static/media/Layer 8.png": "/static/media/Layer 8.abf99b3d69243c8eb2f6.png",
+    "static/media/Ahmed-Alaa-Frontend-Developer-Resume.docx": "/static/media/Ahmed-Alaa-Frontend-Developer-Resume.11a4c13b1593e21d8a3a.docx",
     "static/media/Img.jpg": "/static/media/Img.1c6ade85bcfd53105328.jpg",
     "static/media/Layer 9.png": "/static/media/Layer 9.91404269395b5097f641.png",
     "static/media/react-svgrepo-com.svg": "/static/media/react-svgrepo-com.f57b349b4d9df56c9b48c916a8d5adfb.svg",
@@ -17,11 +18,11 @@
     "static/media/html-5-logo-svgrepo-com.svg": "/static/media/html-5-logo-svgrepo-com.e248da514edac2a2a66bde8fa0166701.svg",
     "index.html": "/index.html",
     "static/media/tailwind-svgrepo-com.svg": "/static/media/tailwind-svgrepo-com.973c73e85d4daa24b257ba20298716c4.svg",
-    "main.2940a599.css.map": "/static/css/main.2940a599.css.map",
-    "main.c84a2cea.js.map": "/static/js/main.c84a2cea.js.map"
+    "main.883a5aa2.css.map": "/static/css/main.883a5aa2.css.map",
+    "main.d42d105e.js.map": "/static/js/main.d42d105e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2940a599.css",
-    "static/js/main.c84a2cea.js"
+    "static/css/main.883a5aa2.css",
+    "static/js/main.d42d105e.js"
   ]
 }
