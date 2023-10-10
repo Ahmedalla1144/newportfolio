@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.518250e0.css",
-    "main.js": "/static/js/main.8acc4448.js",
+    "main.css": "/static/css/main.0456dd70.css",
+    "main.js": "/static/js/main.c222331e.js",
     "static/media/client.jpg": "/static/media/client.94f8a5a7c24b329947d3.jpg",
     "static/media/background.jpg": "/static/media/background.623ed72a7a2e11822a4b.jpg",
+    "static/media/Layer 11.png": "/static/media/Layer 11.6cf308e15993b4b0569b.png",
     "static/media/Layer 12.jpg": "/static/media/Layer 12.0a27f5942bc30fa282e8.jpg",
     "static/media/Layer 13.jpg": "/static/media/Layer 13.edf5543e271615d556a8.jpg",
-    "static/media/Layer 11.jpg": "/static/media/Layer 11.efe994722ca417a68f26.jpg",
     "static/media/Layer 10.png": "/static/media/Layer 10.0e219127da465b27e78a.png",
     "static/media/Layer 8.png": "/static/media/Layer 8.abf99b3d69243c8eb2f6.png",
     "static/media/Ahmed-Alaa-Frontend-Developer-Resume.docx": "/static/media/Ahmed-Alaa-Frontend-Developer-Resume.11a4c13b1593e21d8a3a.docx",
@@ -18,11 +18,11 @@
     "static/media/html-5-logo-svgrepo-com.svg": "/static/media/html-5-logo-svgrepo-com.e248da514edac2a2a66bde8fa0166701.svg",
     "index.html": "/index.html",
     "static/media/tailwind-svgrepo-com.svg": "/static/media/tailwind-svgrepo-com.973c73e85d4daa24b257ba20298716c4.svg",
-    "main.518250e0.css.map": "/static/css/main.518250e0.css.map",
-    "main.8acc4448.js.map": "/static/js/main.8acc4448.js.map"
+    "main.0456dd70.css.map": "/static/css/main.0456dd70.css.map",
+    "main.c222331e.js.map": "/static/js/main.c222331e.js.map"
   },
   "entrypoints": [
-    "static/css/main.518250e0.css",
-    "static/js/main.8acc4448.js"
+    "static/css/main.0456dd70.css",
+    "static/js/main.c222331e.js"
   ]
 }
